@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yulin XIE
 - 👀 I’m interested in Java backend development
-- 🌱 I’m currently working in Didi as an intern
+- 🌱 Currently working in HUAWEI
 
 <!---
 ogugugugugua/ogugugugugua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
